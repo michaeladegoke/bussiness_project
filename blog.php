@@ -77,18 +77,18 @@
 								   <ul class="clearfix">
 									    <li><a href="#">Home</a>
 									    	<ul class="dropdown">
-									        	<li><a href="index.html">Home version one</a></li>
-									        	<li><a href="index-2.html">Home version two</a></li>
+									        	<li><a href="index.php">Home version one</a></li>
+									        	<li><a href="index-2.php">Home version two</a></li>
 									      </ul>
 									    </li>
 									    <li><a href="#">PAGES</a>
 									    	<ul class="dropdown">
-									    		<li><a href="about.html">About us</a></li>
-									    		<li><a href="team.html">Our team</a></li>
-									    		<li><a href="faq.html">Faq's</a></li>
-									    		<li><a href="404.html">404</a></li>
-									    		<li><a href="shop.html">Shop</a></li>
-									    		<li><a href="shop-details.html">Shop details</a></li>
+									    		<li><a href="about.php">About us</a></li>
+									    		<li><a href="team.php">Our team</a></li>
+									    		<li><a href="faq.php">Faq's</a></li>
+									    		<li><a href="404.php">404</a></li>
+									    		<li><a href="shop.php">Shop</a></li>
+									    		<li><a href="shop-details.php">Shop details</a></li>
 									            <li><a href="#">Third Level menu</a>
 									    			<ul>
 									    				<li><a href="#">Demo one</a></li>
@@ -99,25 +99,25 @@
 									    </li>
 									    <li><a href="#">Service</a>
 									    	<ul class="dropdown">
-									        	<li><a href="service.html">Service Version one</a></li>
-									        	<li><a href="service-v2.html">Service version two</a></li>
-									        	<li><a href="service-details.html">Service Details</a></li>
+									        	<li><a href="service.php">Service Version one</a></li>
+									        	<li><a href="service-v2.php">Service version two</a></li>
+									        	<li><a href="service-details.php">Service Details</a></li>
 									       </ul>
 									    </li>
 									    <li><a href="#">Portfolio</a>
 									    	<ul class="dropdown">
-									        	<li><a href="project.html">project</a></li>
-									        	<li><a href="project-details.html">Project details</a></li>
+									        	<li><a href="project.php">project</a></li>
+									        	<li><a href="project-details.php">Project details</a></li>
 									       </ul>
 									    </li>
 									    <li class="active"><a href="#">Blog</a>
 									    	<ul class="dropdown">
-									        	<li><a href="blog.html">Blog List</a></li>
-									        	<li><a href="blog-grid.html">Blog Grid</a></li>
-									        	<li><a href="blog-details.html">Blog details</a></li>
+									        	<li><a href="blog.php">Blog List</a></li>
+									        	<li><a href="blog-grid.php">Blog Grid</a></li>
+									        	<li><a href="blog-details.php">Blog details</a></li>
 									       </ul>
 									    </li>
-									    <li><a href="contact.html">contact</a></li>
+									    <li><a href="contact.php">contact</a></li>
 								   </ul>
 								</nav> <!-- /#mega-menu-holder -->
 					   		</div> <!-- /.menu-wrapper -->
@@ -184,7 +184,7 @@
 									<div class="post-meta">
 										<h5 class="title"><a href="blog-details.html">Its like a kind of torture to have to watch the show</a></h5>
 										<p>A tale of a fateful trip that started from this tropic port aboard this tiny ship today still wanted by the government  apartment in the sky moving on up to the east side a family.</p>
-										<a href="blog-details.html" class="read-more">READ MORE</a>
+										<a href="blog-details.php" class="read-more">READ MORE</a>
 									</div> <!-- /.post-meta -->
 								</div> <!-- /.single-blog -->
 								<div class="single-blog">
@@ -193,9 +193,9 @@
 										<div class="overlay"><a href="#" class="date">Mar 23, 2018</a></div>
 									</div> <!-- /.image-box -->
 									<div class="post-meta">
-										<h5 class="title"><a href="blog-details.html">Flying away on a wing and a prayer</a></h5>
+										<h5 class="title"><a href="blog-details.php">Flying away on a wing and a prayer</a></h5>
 										<p>A tale of a fateful trip that started from this tropic port aboard this tiny ship today still wanted by the government  apartment in the sky moving on up to the east side a family.</p>
-										<a href="blog-details.html" class="read-more">READ MORE</a>
+										<a href="blog-details.php" class="read-more">READ MORE</a>
 									</div> <!-- /.post-meta -->
 								</div> <!-- /.single-blog -->
 								<div class="single-blog">
@@ -204,9 +204,9 @@
 										<div class="overlay"><a href="#" class="date">Feb 06, 2018</a></div>
 									</div> <!-- /.image-box -->
 									<div class="post-meta">
-										<h5 class="title"><a href="blog-details.html">The law since to eastern side of yellow mint</a></h5>
+										<h5 class="title"><a href="blog-details.php">The law since to eastern side of yellow mint</a></h5>
 										<p>A tale of a fateful trip that started from this tropic port aboard this tiny ship today still wanted by the government  apartment in the sky moving on up to the east side a family.</p>
-										<a href="blog-details.html" class="read-more">READ MORE</a>
+										<a href="blog-details.php" class="read-more">READ MORE</a>
 									</div> <!-- /.post-meta -->
 								</div> <!-- /.single-blog -->
 								<div class="single-blog">
@@ -215,9 +215,9 @@
 										<div class="overlay"><a href="#" class="date">Mar 23, 2018</a></div>
 									</div> <!-- /.image-box -->
 									<div class="post-meta">
-										<h5 class="title"><a href="blog-details.html">Rouble with the law since the day they was born</a></h5>
+										<h5 class="title"><a href="blog-details.php">Rouble with the law since the day they was born</a></h5>
 										<p>A tale of a fateful trip that started from this tropic port aboard this tiny ship today still wanted by the government  apartment in the sky moving on up to the east side a family.</p>
-										<a href="blog-details.html" class="read-more">READ MORE</a>
+										<a href="blog-details.php" class="read-more">READ MORE</a>
 									</div> <!-- /.post-meta -->
 								</div> <!-- /.single-blog -->
 							</div> <!-- /.post-wrapper -->
@@ -260,14 +260,14 @@
 									<li class="clearfix">
 										<img src="images/blog/7.jpg" alt="" class="float-left">
 										<div class="post float-left">
-											<a href="blog-details.html">Be right for you may not be right for some.</a>
+											<a href="blog-details.php">Be right for you may not be right for some.</a>
 											<div class="date">2 days ago</div>
 										</div>
 									</li>
 									<li class="clearfix">
 										<img src="images/blog/8.jpg" alt="" class="float-left">
 										<div class="post float-left">
-											<a href="blog-details.html">World don't move to beat of just one drum.</a>
+											<a href="blog-details.php">World don't move to beat of just one drum.</a>
 											<div class="date">1 month ago</div>
 										</div>
 									</li>
@@ -363,10 +363,10 @@
 							<div class="col-md-6 col-12"><p>&copy; Copyrights 2018. All Rights Reserved.</p></div>
 							<div class="col-md-6 col-12">
 								<ul>
-									<li><a href="about.html">About</a></li>
-									<li><a href="service.html">Solutions</a></li>
+									<li><a href="about.php">About</a></li>
+									<li><a href="service.php">Solutions</a></li>
 									<li><a href="#">FAQ’s</a></li>
-									<li><a href="contact.html">Contact</a></li>
+									<li><a href="contact.php">Contact</a></li>
 								</ul>
 							</div>
 						</div>
